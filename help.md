@@ -1,0 +1,2 @@
+- if the favicon dont show up on reloading the page, use hard reload by pressing
+    - `ctrl + shift + r`
